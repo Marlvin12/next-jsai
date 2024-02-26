@@ -2,7 +2,7 @@
 
 # Overview
 
-**The AI Course Generator is a cutting-edge platform designed to automate the creation of comprehensive educational courses. Utilizing the power of Next.js for the frontend, this application integrates several powerful APIs and technologies, including Stripe for payments, OpenAI for content generation, Google for authentication, PlanetScale for database management, AWS for hosting and storage, and the YouTube API for video content. This blend of technology allows for the dynamic generation of course materials, including video lectures, quizzes, and summaries, tailored to a wide array of subjects.
+** The AI Course Generator is a cutting-edge platform designed to automate the creation of comprehensive educational courses. Utilizing the power of Next.js for the frontend, this application integrates several powerful APIs and technologies, including Stripe for payments, OpenAI for content generation, Google for authentication, PlanetScale for database management, AWS for hosting and storage, and the YouTube API for video content. This blend of technology allows for the dynamic generation of course materials, including video lectures, quizzes, and summaries, tailored to a wide array of subjects.& **
 
 **Features
 Dynamic Course Creation: Automatically generate courses with rich content, including video lectures, quizzes, and summaries.
