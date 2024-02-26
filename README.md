@@ -1,5 +1,7 @@
-AI Course Generator
+##AI Course Generator
+
 Overview
+
 The AI Course Generator is a cutting-edge platform designed to automate the creation of comprehensive educational courses. Utilizing the power of Next.js for the frontend, this application integrates several powerful APIs and technologies, including Stripe for payments, OpenAI for content generation, Google for authentication, PlanetScale for database management, AWS for hosting and storage, and the YouTube API for video content. This blend of technology allows for the dynamic generation of course materials, including video lectures, quizzes, and summaries, tailored to a wide array of subjects.
 
 Features
@@ -22,17 +24,20 @@ AWS account
 YouTube API key
 Installation
 Clone the repository:
+
 bash
 Copy code
-git clone https://github.com/yourusername/ai-course-generator.git
+git clone https://github.com/Marlvin12/ai-course-generator.git
 cd ai-course-generator
 Install dependencies:
+
 bash
 Copy code
 npm install
 # or
 yarn install
 Set up environment variables:
+
 Create a .env.local file in the root directory and add the following variables:
 
 env
@@ -46,6 +51,7 @@ AWS_ACCESS_KEY_ID=your_aws_access_key_id
 AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
 YOUTUBE_API_KEY=your_youtube_api_key
 Start the development server:
+
 bash
 Copy code
 npm run dev
@@ -64,5 +70,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Contact
 Marlvin Goremusandu
-
-Project Link: https://github.com/Marlvin12/next-jsai
+Project Link: https://github.com/Marlvin12/ai-course-generator
